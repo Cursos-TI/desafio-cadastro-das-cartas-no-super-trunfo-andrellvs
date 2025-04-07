@@ -18,7 +18,7 @@ int main() {
     printf("Digite o código da carta (ex: A01): \n");
     scanf(" %s", &codigo_da_carta); // Lê uma string (código da carta) até o espaço ou Enter
 
-    printf("DDigite o nome da cidade: \n");
+    printf("Digite o nome da cidade: \n");
     scanf(" %[^\n]", nome_da_cidade);  // Lê até o Enter (inclusive espaços)
 
     printf("Digite a população: \n");
@@ -32,6 +32,14 @@ int main() {
 
     printf("Digite o número de pontos turísticos da Carta 1: \n");
     scanf("%d", &numero_de_pontos_turisticos);
+
+    // Calculo da densidade demográfica
+    float densidade_demografica = (float)populacao / area; // Calcula a densidade demográfica (população/área)
+
+    // Exibição do PIB per capita
+    float pib_per_capita = pib * 1000000000 / populacao; // Calcula o PIB per capita (PIB/população)
+
+
     
     // Entrada de dados nr2
     printf("Digite o estado (letra de A a H): \n");        
@@ -54,7 +62,13 @@ int main() {
 
     printf("Digite o número de pontos turísticos da Carta 2: \n"); // Lê o número de pontos turísticos
     scanf("%d", &numero_de_pontos_turisticos2); // Lê um número inteiro (número de pontos turísticos)
-    
+
+    // Calculo da densidade demográfica 2
+    float densidade_demografica2 = (float)populacao2 / area2; // Calcula a densidade demográfica (população/área)
+
+    // Exibição do PIB per capita 2
+    float pib_per_capita2 = pib2 * 1000000000 / populacao2; // Calcula o PIB per capita (PIB/população)
+        
     // Exibição dos dados nr1
     printf("CARTA 1:\n"); // Exibe o título da carta 1
     printf("Estado: %c\n", estado_da_carta); // Exibe o estado da carta 1
@@ -64,6 +78,9 @@ int main() {
     printf("Área: %.2f km²\n", area); // Exibe a área da carta 1
     printf("PIB : %.2f bilhões de reais \n", pib); // Exibe o PIB da carta 1
     printf("Número de pontos turísticos: %d \n", numero_de_pontos_turisticos); // Exibe o número de pontos turísticos da carta 1
+    printf("A densidade demográfica da cidade %s é: %.2f habitantes por km²\n", nome_da_cidade, densidade_demografica); // Exibe a densidade demográfica formatada com 2 casas decimais
+    printf("O PIB per capita da cidade %s é: %.2f reais\n", nome_da_cidade, pib_per_capita); // Exibe o PIB per capita formatado com 2 casas decimais
+
     
     // Exibição dos dados nr2
     printf("CARTA 2: \n"); // Exibe o título da carta 2
@@ -74,6 +91,9 @@ int main() {
     printf("Área: %.2f km²\n", area2); // Exibe a área da carta 2
     printf("PIB : %.2f bilhões de reais\n", pib2); // Exibe o PIB da carta 2
     printf("Número de pontos turísticos: %d\n", numero_de_pontos_turisticos2); // Exibe o número de pontos turísticos da carta 2  
+    printf("A densidade demográfica da cidade %s é: %.2f habitantes por km²\n", nome_da_cidade2, densidade_demografica2); // Exibe a densidade demográfica formatada com 2 casas decimais
+    printf("O PIB per capita da cidade %s é: %.2f reais\n", nome_da_cidade2, pib_per_capita2); // Exibe o PIB per capita formatado com 2 casas decimais
+
 
     return 0; // Retorna 0 para indicar que o programa foi executado com sucesso
 
