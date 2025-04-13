@@ -2,7 +2,7 @@
 # Fundamentos e Técnicas Avançadas
 </div>
   <div style="display: inline_block"><br>
-  <img height="250" width="850" src="https://drive.google.com/drive/folders/1SrO-PwIHMGbUdDyl9gaTLsbADVUGX_N4?lfhs=2" />
+  <img height="250" width="850" src="https://drive.google.com/file/d/10zQcDyfh9iy1oW91kewPVUWH6mlcEg8Z/view?usp=drive_link" />
 </div>
 
 # COMPILAÇÃO:
