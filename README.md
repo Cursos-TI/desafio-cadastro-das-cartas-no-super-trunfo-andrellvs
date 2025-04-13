@@ -1,6 +1,9 @@
 # SUPER TRUNFO EM C
 # Fundamentos e Técnicas Avançadas
-![Banner](https://drive.google.com/file/d/10zQcDyfh9iy1oW91kewPVUWH6mlcEg8Z/view?usp=drive_link)
+  </div>
+  <div style="display: inline_block"><br>
+  <img height="900" width="600" src="https://static.wikia.nocookie.net/videogamebrasileiro/images/b/bb/Turbo_Game_CCE_VG-9000T_caixa_frente.jpg/revision/latest?cb=20220802002742&path-prefix=pt-br" />
+</div>
 
 
 
