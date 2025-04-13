@@ -8,7 +8,7 @@
 
 
 
-#🛠️ Pré-requisitos
+🛠️ # Pré-requisitos
 - Tenha o compilador C instalado.
 - No Linux/macOS, o GCC geralmente já está disponível ou pode ser instalado com um comando.
 
