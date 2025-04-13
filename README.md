@@ -2,7 +2,7 @@
 # Fundamentos e Técnicas Avançadas
   </div>
   <div style="display: inline_block"><br>
-  <img height="450" width="850" src="https://static.wikia.nocookie.net/videogamebrasileiro/images/b/bb/Turbo_Game_CCE_VG-9000T_caixa_frente.jpg/revision/latest?cb=20220802002742&path-prefix=pt-br" />
+  <img height="350" width="850" src="https://static.wikia.nocookie.net/videogamebrasileiro/images/b/bb/Turbo_Game_CCE_VG-9000T_caixa_frente.jpg/revision/latest?cb=20220802002742&path-prefix=pt-br" />
 </div>
 
 
