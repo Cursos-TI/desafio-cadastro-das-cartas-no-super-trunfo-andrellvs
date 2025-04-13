@@ -5,7 +5,7 @@
   <img height="350" width="850" src="https://i0.wp.com/romirplayhouse.com/wp-content/uploads/2023/06/1474A0A7-EDAD-4693-9468-7CE0CC967CBB.jpeg?w=620&ssl=1" />
 </div>
 
-# INSTRUÇÕES
+# COMPILAÇÃO:
 
 
 
@@ -37,7 +37,7 @@ No Windows:
 programa.exe'''
 ```
 
-# INSTRUÇÕES
+# INSTRUÇÕES DO JOGO
 1) USE DUAS CARTAS DE SUPER TRUNFO PARA JOGAR
 2) DIGITE OS ATRIBUTOS, UMA CARTA POR VEZ:
 -   LETRA DA CARTA (A,B,C,D,E,F,G,H)
