@@ -1,5 +1,9 @@
 # SUPER TRUNFO EM C
 # Fundamentos e Técnicas Avançadas
+![Banner](https://link-da-sua-imagem.com/banner.png)
+
+
+
 
 🛠️ Pré-requisitos
 - Tenha o compilador C instalado.
