@@ -2,7 +2,7 @@
 # Fundamentos e Técnicas Avançadas
 </div>
   <div style="display: inline_block"><br>
-  <img height="250" width="850" src="[https://i0.wp.com/romirplayhouse.com/wp-content/uploads/2023/06/1474A0A7-EDAD-4693-9468-7CE0CC967CBB.jpeg?w=620&ssl=](https://drive.google.com/drive/folders/1SrO-PwIHMGbUdDyl9gaTLsbADVUGX_N4?lfhs=2)1" />
+  <img height="250" width="850" src="https://i0.wp.com/romirplayhouse.com/wp-content/uploads/2023/06/1474A0A7-EDAD-4693-9468-7CE0CC967CBB.jpeg?w=620&ssl=](https://drive.google.com/drive/folders/1SrO-PwIHMGbUdDyl9gaTLsbADVUGX_N4?lfhs=2)1" />
 </div>
 
 # COMPILAÇÃO:
