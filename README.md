@@ -1,6 +1,6 @@
 # SUPER TRUNFO EM C
 # Fundamentos e Técnicas Avançadas
-![Banner](https://chatgpt.com/c/67fb1b2f-63f8-800d-b752-0771e3d4af25)
+![Banner](https://drive.google.com/file/d/10zQcDyfh9iy1oW91kewPVUWH6mlcEg8Z/view?usp=drive_link)
 
 
 
