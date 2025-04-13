@@ -1,3 +1,74 @@
+# SUPER TRUNFO EM C
+# Fundamentos e Técnicas Avançadas
+
+🛠️ Pré-requisitos
+- Tenha o compilador C instalado.
+- No Linux/macOS, o GCC geralmente já está disponível ou pode ser instalado com um comando.
+
+- Linux (Debian/Ubuntu): sudo apt install build-essential
+- macOS: xcode-select --install
+- Windows: Use o MinGW ou o WSL com GCC
+
+1. Abra o terminal ou prompt de comando
+2. Navegue até a pasta onde está seu arquivo
+3. Compile com o GCC
+```shell 
+cd /caminho/para/o/arquivo
+```
+```shell 
+gcc programa.c -o programa
+```
+4. Execute o programa compilado
+No Linux/macOS:
+```shell 
+./programa'''
+```
+No Windows:
+```shell 
+programa.exe'''
+```
+
+# INSTRUÇÕES
+1) USE DUAS CARTAS DE SUPER TRUNFO PARA JOGAR
+2) DIGITE OS ATRIBUTOS, UMA CARTA POR VEZ:
+-   LETRA DA CARTA (A,B,C,D,E,F,G,H)
+-   CODIGO DA CARTA (EX: A00, A01,A02,103...)
+-   NOME DO PAÍS DA CARTA
+-   POPULAÇÃO
+-   AREA
+-   PIB
+-   NUMERO DE PONTOS TURÍSTICOS
+
+
+AO FINAL ELE APRESENTARÁ A CARTA VENCEDORA!
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Desafio Super Trunfo - Países - Cadastro das Cartas - Atualizado: 21/02
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
